@@ -1,0 +1,13 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+
+# Django static files
+staticfiles/
+
+# Local Database
+db.sqlite3
+
